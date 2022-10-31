@@ -12,6 +12,10 @@
   text-align: right;
 }
 
+.header-title {
+  text-align: center;
+}
+
 .header-img {
   width: 100%;
 }
